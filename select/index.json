@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "モニタリング (Best Friend Remix)",
+  "base_artist": "DECO*27",
+  "createdAt": "2025-12-02T07:19:16.248487Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "モニタリング",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_モニタリング_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "モニタリング",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_モニタリング_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "モニタリング",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/03_モニタリング_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "モニタリング",
+      "artist": "DECO∗27",
+      "has_synced": true,
+      "path": "select/04_モニタリング_DECO∗27.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "モニタリング",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/05_モニタリング_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "モニタリング (Best Friend Remix)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/06_モニタリング_(Best_Friend_Remix)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DECO*27 - モニタリング (Best Friend Remix) feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/07_DECO_27_-_モニタリング_(Best_Friend_Remix)_feat._初音ミク_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "モニタリング (Best Friend Remix) - Monitoring (Best Friend Remix)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/08_モニタリング_(Best_Friend_Remix)_-_Monitoring_(Best_Friend_Remix)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "モニタリング  (Monitoring)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/09_モニタリング_(Monitoring)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "モニタリング (Monitoring)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/10_モニタリング_(Monitoring)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "モニタリング - Monitoring",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/11_モニタリング_-_Monitoring_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "モニタリング / DECO*27【歌ってみた】ツバサ",
+      "artist": "ツバサ【EL6】",
+      "has_synced": true,
+      "path": "select/12_モニタリング___DECO_27【歌ってみた】ツバサ_ツバサ【EL6】.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "モニタリング",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_モニタリング_DECO_27.txt"
+    }
+  ]
+}
